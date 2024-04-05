@@ -1,0 +1,1 @@
+Modify the previous program to use a switch statement

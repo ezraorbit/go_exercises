@@ -1,0 +1,1 @@
+# Using shasum -a 256 ./snowy_evening.txt to create a hash
