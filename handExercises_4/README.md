@@ -1,1 +1,1 @@
-Exercises of Arrays and Slices
+Exercises on Arrays and Slices
