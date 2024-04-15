@@ -1,0 +1,1 @@
+# Exercises practicing how to use maps in GO
